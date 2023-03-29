@@ -26,6 +26,7 @@ IMAGES=(
     "nginx:latest"
     "httpd:latest"
     "traefik:latest"
+    "gtliu99/elg5164-web:latest"
 )
 
 # The path to save the tar file
