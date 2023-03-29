@@ -1,0 +1,4 @@
+
+[submodule "docs"]
+	path = app
+	url = https://github.com/vuejs/docs
