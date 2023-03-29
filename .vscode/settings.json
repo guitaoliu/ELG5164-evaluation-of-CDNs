@@ -1,5 +1,0 @@
-{
-  "yaml.schemas": {
-    "https://json.schemastore.org/github-workflow.json": "file:///Users/liug/Dev/ELG5164-evaluation-of-CDNs/.github/workflows/deploy.yml"
-  }
-}
